@@ -5,7 +5,7 @@ Example os very basic docker container with a node app
 
 Create a container, tagged 'node-hello-app', with content of folder '.'
 ```
-docker build -t node-hello-app .
+docker build -t hello-node .
 ```
 
 Run container (with no access from the host)
